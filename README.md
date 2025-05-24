@@ -2,7 +2,9 @@
 
 Wildwood Adventure is a 2D platformer game featuring two distinct game modes: Normal Mode and Endless Runner Mode. In Normal Mode, players will traverse through two standard levels and face off in an intense boss level. Endless Runner Mode challenges players to collect the highest score possible. The game offers easy key binds, sound toggling in the settings, and full controller support with haptic feedback for an immersive experience. Players will encounter five unique enemies and a formidable boss, each with its own attack patterns. To defeat the boss, players must first deactivate a healing tower by transforming into a wolf and defeating a skeleton. Activating Rage Mode, available once per respawn, allows players to take down the boss more quickly. The normal levels also include vending machines for purchasing hearts and shuriken, along with randomly spawning power-ups that provide an extra edge.
 
-https://youtu.be/Y40dn-X5tYM
+Download Link: https://krypton29.itch.io/wildwood
+
+[https://youtu.be/Y40dn-X5tYM](https://www.youtube.com/watch?v=Y40dn-X5tYM)
 ![image](https://github.com/user-attachments/assets/7146a10c-c041-4049-953c-04b8dda3f56f)
 ![image](https://github.com/user-attachments/assets/1ec36576-5d11-4fce-bed5-77b9dd6e49d7)
 ![image](https://github.com/user-attachments/assets/c752a0ff-3ae2-4c86-9cee-4664d2196a91)
